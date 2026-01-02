@@ -18,6 +18,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Role clarity and interaction plan (reference [Role Interaction Checklist](octoacme-role-interaction-checklist.md))
+
+For detailed role definitions and typical responsibilities, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md).
 
 ## Project One-pager Template
 - Project name:

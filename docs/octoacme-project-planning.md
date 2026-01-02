@@ -15,6 +15,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Clarify role interactions and handoffs using the [Role Interaction Checklist](octoacme-role-interaction-checklist.md)
+
+For detailed role definitions, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md).
 
 ## Backlog Item Template
 - Title:
