@@ -88,6 +88,7 @@ Explore our comprehensive process documentation:
 
 ### Supporting Documentation
 - **[Roles and Personas](octoacme-roles-and-personas.md)**: Detailed definitions of team roles, responsibilities, goals, and communication patterns
+- **[Role Interaction Checklist](octoacme-role-interaction-checklist.md)**: Template to clarify role interactions, handoffs, and accountability at project milestones
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)**: Risk identification, assessment, mitigation strategies, and stakeholder communication templates
 
 ## Getting Started
@@ -95,7 +96,8 @@ Explore our comprehensive process documentation:
 For new team members:
 1. Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our principles and approach
 2. Review [Roles and Personas](octoacme-roles-and-personas.md) to understand team structure and responsibilities
-3. Deep-dive into the lifecycle guides relevant to your current project phase
+3. Review the [Role Interaction Checklist](octoacme-role-interaction-checklist.md) to understand collaboration patterns across roles
+4. Deep-dive into the lifecycle guides relevant to your current project phase
 
 For project managers:
 1. Use the [Project Initiation Guide](octoacme-project-initiation.md) when starting new projects
